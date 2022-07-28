@@ -1,0 +1,5 @@
+print(hex(394))
+print(hex(217))
+print(bin(286))
+print(bin(390))
+print(bin(15))
